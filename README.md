@@ -1,4 +1,4 @@
-### Hey there 👋
-##### New to coding
+## Hey there 👋
+### New to coding
 - Exploring 
 - Currently Learning from GitHub Docs
