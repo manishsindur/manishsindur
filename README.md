@@ -1,20 +1,16 @@
-## 💻 About Me  
-- 🎯 **Goals:** Empower communities by creating innovative, accessible, efficient web-based solutions.  
-- 🛠 **Tech Skills:**  
-  - 🌐 **Frontend:** HTML, CSS, Tailwind CSS, JavaScript (ongoing), React (with Vite).  
-  - ⚙️ **Backend:** Learning and exploring!  
-  - 🛠 **Tools:** Docker, Node.js (migration-friendly projects), and WordPress plugin development.  
-- 🌍 **Interests:** I love working on projects that make life easier, like plugins, or platforms to manage and explore movies, series, and anime.
+**💻 Web Developer | Open Source Contributor**  
 
-## 🎉 Highlights  
-- 👨‍💻 Currently working on a web-based platform for **movies, series, and anime** that provides details like where to watch, ratings, and bookmark features.  
-- 📦 Contributing to open-source projects like the **Creative Commons WordPress plugin**, focusing on modernizing its architecture and improving user experience.  
-- 🔄 **Migrating old stacks:** Modernizing projects with outdated packages like `create-guten-block` to align with core WordPress standards.(on going)
+🎯 Focused on developing scalable, user-centric web applications and modernizing workflows. Proficient in front-end technologies like **HTML**, **CSS**, **Tailwind CSS**, and **JavaScript**, with hands-on experience in React and WordPress plugin development.  
 
-## 🌱 What I’m Learning  
-- **Advanced JavaScript** to power up my React and frontend skills.  
-- How to reverse-engineer Docker environments for better compatibility.   
+🛠 **Technical Expertise:**  
+- Frontend frameworks and tools: **React (with Vite)**, **Tailwind CSS**  
+- WordPress development: Actively working on transitioning a project from `create-guten-block` to core WordPress standards.  
+- DevOps tools: Familiar with **Docker** and Node.js environments.  
 
-> “The journey might be challenging, but each line of code brings us closer to change.”  
+🌟 **Highlights:**  
+- Currently developing a web-based platform for movies, series, and anime, integrating features like content discovery, ratings, and bookmarking.  
+- Contributor to the **Creative Commons WordPress plugin**, focusing on modernizing its structure and improving stability.  
 
-Thanks for stopping by! 🌟
+🌱 Constantly upskilling in **advanced JavaScript**, **backend development**, and **containerized environments** to build full-stack expertise.  
+
+✨ **“Transforming challenges into opportunities through technology.”**  
