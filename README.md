@@ -1,7 +1,3 @@
-# 👋 Hi there! Welcome to my GitHub!  
-
-I'm a passionate developer and problem-solver based in India. Here's a little bit about me:  
-
 ## 💻 About Me  
 - 🎯 **Goals:** Empower communities by creating innovative, accessible, efficient web-based solutions.  
 - 🛠 **Tech Skills:**  
