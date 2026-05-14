@@ -1,7 +1,7 @@
-**💻 Web Developer | Open Source Contributor**  
+**💻 Web Developer**  
 
-🎯 Focused on developing scalable, user-centric web applications and modernizing workflows. Proficient in front-end technologies like **HTML**, **CSS**, **Tailwind CSS**, and **JavaScript**, with hands-on experience in React and WordPress plugin development.   
+🎯 Focused on developing scalable, user-centric web applications and modernizing workflows. Proficient in front-end technologies like **HTML**, **CSS**, **Tailwind CSS**, and **JavaScript**  
 
-🌱 Constantly upskilling in **advanced JavaScript**, **backend development**, and **containerized environments** to build full-stack expertise.  
+🌱 Constantly upskilling in **Ruby on Rails**
 
 ✨ **“Transforming challenges into opportunities through technology.”**  
